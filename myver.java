@@ -26,8 +26,13 @@ public class myver{
 
 		boolean isGay = true;
 		System.out.println("Are you gay? "+isGay);
+
+		int isTracked = false;
+		System.out.println("is this file get tracked by git ?"+isTracked);
 	}
 }
 
 
 /* in java things could start with ThisCase */
+
+
